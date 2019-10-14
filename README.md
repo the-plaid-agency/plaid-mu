@@ -2,8 +2,8 @@
 
 This is the official Must-Use plugin for THE PLAID AGENCY Wordpress installs.
 
-Add this to the  `/wp-content/mu-plugins` folder on Pantheon.
+Add the  `plaid-mu.php` file to the  `/wp-content/mu-plugins` folder on your Pantheon website.
 
-**What this plugin does**
+**What this plugin currently does**
 
-- Sets up default WP-CFM Configuration for live.
+- Automatically applies the WP-CFM settings on live only.
